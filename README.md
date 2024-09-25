@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hello!😄
+My name is Michelle, I'm a Computer Science and Game Studies major at the University of Delaware with minors in Art and Interactive Media!
 
 <!--
 **mbartolotta345/mbartolotta345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
