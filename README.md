@@ -1,4 +1,4 @@
-### Hello World! 😄
+<h1>Hello World! 😄</h1>
 My name is Michelle, I'm a Computer Science and Game Studies major at the University of Delaware with minors in Art and Interactive Media! 👾 I'm very passionate about making tech more accessible!
 
 <h2> Experience</h2>
