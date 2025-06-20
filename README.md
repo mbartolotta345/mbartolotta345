@@ -3,6 +3,7 @@ My name is Michelle, I'm a Computer Science and Game Studies major at the Univer
 
 <h2> Experience</h2>
 <ul>
+  <li>🗽 Software Engineer Intern for Liberty Mutual</li>
   <li>💻Teaching Assistant - Computer Science for Engineers</li>
 <li>🎨Art Committee Intern for HenHacks Hackathon</li></ul>
 <h3 align="left">Languages and Tools:</h3>
